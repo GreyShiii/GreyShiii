@@ -11,7 +11,7 @@ I build clean, responsive, and functional web applications using **PHP**, **Lara
 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,php,laravel,mysql,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,php,laravel,mysql,tailwind,figma,postman)](https://skillicons.dev)
 
 <br/>
 
