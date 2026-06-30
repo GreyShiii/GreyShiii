@@ -2,7 +2,9 @@
 
 # Grey
 
-### Full Stack Developer
+### 
+
+Full Stack Developer
 
 I build clean, responsive, and functional web applications using **PHP**, **Laravel**, and **React** — grounded in MVC architecture, RESTful API design, and clean code principles. My focus is on delivering real-world solutions that are both technically sound and genuinely useful.
 
