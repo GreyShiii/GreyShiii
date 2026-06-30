@@ -8,7 +8,6 @@ I build clean, responsive, and functional web applications using **PHP**, **Lara
 
 [![GitHub](https://img.shields.io/badge/GitHub-GreyShiii-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GreyShiii)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xander-grey-macapagal-17aa50315/)
-[![TikTok](https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@your-tiktok-username)
 
 <br/>
 
