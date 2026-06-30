@@ -16,6 +16,7 @@ Focused on building clean, responsive, and functional web experiences.
 
 ### ⚙️ Backend
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://shields.io)
 
 ### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
