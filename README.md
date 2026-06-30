@@ -23,5 +23,4 @@ I build clean, responsive, and functional web applications using **PHP**, **Lara
 <br/>
 
 <sub>Open to freelance projects and internship opportunities · Philippines</sub>
-
 </div>
