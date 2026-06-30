@@ -6,7 +6,6 @@ Focused on building clean, responsive, and functional web experiences.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xander-grey-macapagal-17aa50315/)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@your-tiktok-username)
 
 ---
 
