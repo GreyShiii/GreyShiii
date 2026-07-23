@@ -9,7 +9,7 @@ I build clean, responsive, and functional web applications using **PHP**, **Lara
 [![GitHub](https://img.shields.io/badge/GitHub-GreyShiii-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GreyShiii)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xander-grey-macapagal-17aa50315/)
 
-<br/
+<br/>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,php,laravel,mysql,tailwind,figma,postman)](https://skillicons.dev)
 
