@@ -4,7 +4,7 @@
 
 ### Full Stack Developer
 
-I build clean, responsive, and functional web applications using **PHP**, **Laravel**, and **React** — grounded in MVC architecture, RESTful API design, and clean code principles. My focus is on delivering real-world solutions that are both technically sound and genuinely useful.
+I build clean, responsive, and functional web applications using **PHP**, **Laravel**, and **React** — grounded in MVC architecture, RESTful API design, and clean code principles. My focus is on delivering real-world solutions that are both technically sound and genuinely useful.s
 
 [![GitHub](https://img.shields.io/badge/GitHub-GreyShiii-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GreyShiii)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xander-grey-macapagal-17aa50315/)
